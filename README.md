@@ -52,6 +52,7 @@ ASCII코드 10진수를 참고하여 랜덤값을 구하였습니다.
 8. 정렬
 성적을 받을 수 있는 STU copy_student[total_count]를 선언하여
 오름차순 내림차순 기능을 만들었습니다.
+
 ```
 if(sort==0){
         for(i = 0; i < total_count-1; i++){
