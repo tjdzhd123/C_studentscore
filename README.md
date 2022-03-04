@@ -76,4 +76,5 @@ if(sort==0){
         }
     }
 ```
+![깃허브초기화면](https://user-images.githubusercontent.com/100817617/156735970-477da719-6f03-496f-8d2f-e5e5c78f23da.png)
 
