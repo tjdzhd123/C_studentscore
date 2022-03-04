@@ -48,7 +48,7 @@ ASCII코드 10진수를 참고하여 랜덤값을 구하였습니다.
         if(!strnicmp(&student[i].name[0], &name[0], 3)){
             score_print(student[i].name, 1);
             find_flag = 1;
-``
+```
 8. 정렬
 성적을 받을 수 있는 STU copy_student[total_count]를 선언하여
 오름차순 내림차순 기능을 만들었습니다.
