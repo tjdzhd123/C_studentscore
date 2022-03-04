@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646379311 source:c:\workspace\c_studentscore_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
